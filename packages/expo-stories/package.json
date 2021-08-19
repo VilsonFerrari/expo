@@ -30,11 +30,11 @@
     "acorn-loose": "^8.1.0",
     "commander": "^8.0.0",
     "esbuild": "^0.12.15",
-    "fs-extra": "^9.1.0",    
+    "fs-extra": "^9.1.0",
     "glob": "^7.1.7",
     "react-native-safe-area-context": "3.2.0",
     "react-native-screens": "^3.5.0",
-    "react-native-svg": "^12.1.1",    
+    "react-native-svg": "^12.1.1",
     "sane": "^5.0.1"
   }
 }
